@@ -62,15 +62,15 @@
     "bumpp": "9.8.1",
     "changelogithub": "0.13.11",
     "eslint": "9.16.0",
-    "happy-dom": "15.11.7",
+    "happy-dom": "21.0.4",
     "knip": "5.38.2",
     "lint-staged": "15.2.10",
-    "nuxt": "3.14.1592",
+    "nuxt": "4.6.3",
     "playwright": "1.49.0",
     "rollup": "4.27.3",
     "simple-git-hooks": "2.11.1",
     "typescript": "5.6.3",
-    "vitest": "2.1.8",
+    "vitest": "5.1.0",
     "vue": "3.5.13"
   },
   "resolutions": {
